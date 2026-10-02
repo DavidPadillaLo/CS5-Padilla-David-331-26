@@ -1,0 +1,14 @@
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\bin\Debug\net10.0\CS5.exe
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\bin\Debug\net10.0\CS5.deps.json
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\bin\Debug\net10.0\CS5.runtimeconfig.json
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\bin\Debug\net10.0\CS5.dll
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\bin\Debug\net10.0\CS5.pdb
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\CS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\CS5.AssemblyInfoInputs.cache
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\CS5.AssemblyInfo.cs
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\CS5.csproj.CoreCompileInputs.cache
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\CS5.dll
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\refint\CS5.dll
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\CS5.pdb
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\CS5.genruntimeconfig.cache
+C:\Users\al3ja\OneDrive\Desktop\CSharp\CS5\obj\Debug\net10.0\ref\CS5.dll
